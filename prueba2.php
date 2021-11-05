@@ -11,11 +11,19 @@
     $num1 = 2;
     $num2 = 5;
 
+    echo 'el numero<br>';
+    
+    echo $num1;
+    echo '<br> es <br>';
     if ($num1 > $num2) {
-        echo 'Es mayor';
+        echo 'Es mayor <br>';
         }else{
-            echo 'Es menor';
+            echo 'Es menor <br>';
         }
+
+    echo 'que el numero <br>';
+    echo $num2;
+
     ?>
 </body>
 </html>

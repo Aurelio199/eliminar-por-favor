@@ -7,12 +7,13 @@
     <title>Document</title>
 </head>
 <body>
+
+<input type="password" placeholder="Agrega password">
     <?php 
     $num1 = 2;
     $num2 = 5;
 
     echo 'el numero<br>';
-    
     echo $num1;
     echo '<br> es <br>';
     if ($num1 > $num2) {

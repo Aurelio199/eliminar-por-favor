@@ -9,6 +9,7 @@
 <body>
 
 <input type="password" placeholder="Agrega password">
+<br>
     <?php 
     $num1 = 2;
     $num2 = 5;
